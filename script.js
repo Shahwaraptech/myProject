@@ -1,3 +1,3 @@
 
-alert("Pakistan Zindabad")
-alert("Hello World")
+// alert("Pakistan Zindabad")
+// alert("Hello World")
