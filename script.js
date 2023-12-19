@@ -1,2 +1,3 @@
 
-// alert("Pakistan Zindabad")
+alert("Pakistan Zindabad")
+alert("Hello World")
